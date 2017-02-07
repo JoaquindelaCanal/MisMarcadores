@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "dereuromark/cakephp-flash": "^1.0",
+        "friendsofcake/bootstrap-ui": "^0.6.1"
+    }
+}
