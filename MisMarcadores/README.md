@@ -9,6 +9,3 @@ El usuario puede crear su cuenta y gestionar sus enlaces favoritos. El administr
 
 ## Screenshots
 
-[![html dark](https://github.com/JoaquindelaCanal/MisMarcadores/webroot/img/login.png)](https://github.com/JoaquindelaCanal/MisMarcadores/webroot/img/login.png)
-![Alt text](https://github.com/JoaquindelaCanal/MisMarcadores/webroot/img/register.png?raw=true "Registro")
-![Lista](https://raw.github.com/JoaquindelaCanal/MisMarcadores/webroot/img/list.png)
