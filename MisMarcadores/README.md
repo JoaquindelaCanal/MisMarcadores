@@ -24,4 +24,4 @@ El usuario puede crear su cuenta y gestionar sus enlaces favoritos. El administr
 ![editbookmark](https://cloud.githubusercontent.com/assets/25287008/22673978/2d19906a-ecbc-11e6-9d3a-4b42644bdcb2.png)
 
 
-![bookmarks](https://cloud.githubusercontent.com/assets/25287008/22673926/d9bad5be-ecbb-11e6-8206-6223456fafcf.png)
+![usersmarcadores](https://cloud.githubusercontent.com/assets/25287008/23461408/958cfc78-fe68-11e6-9f79-cc9e0a95f481.png)
